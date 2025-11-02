@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ETavkaya-Bramble
+- 👋 Hi, I’m @ETavkaya
 - 👀 I’m interested in music production, cycling, coding
-- 🌱 I’m currently learning TestStand
+- 🌱 I’m currently learning TestStand, Python
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me GitHub
 
